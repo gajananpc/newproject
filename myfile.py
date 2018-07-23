@@ -1,1 +1,2 @@
-print("linux operating system")
+
+print("linx is  operating system")
