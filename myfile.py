@@ -7,4 +7,4 @@ def add():
 print me
 add()
 add()
-print("kali shital")
+print("dukar shital")
