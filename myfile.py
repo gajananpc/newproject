@@ -6,4 +6,5 @@ def add():
 	print(4+5)
 print me
 add()
+add()
 print('g')
