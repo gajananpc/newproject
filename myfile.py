@@ -6,4 +6,4 @@ def add():
 	print(4+5)
 
 add()
-print('good morning')
+print('g')
